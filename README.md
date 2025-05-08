@@ -141,6 +141,7 @@
   </tr>
 </table>
 
+<!--
 <div align="center" style="display:none">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design" />
@@ -150,6 +151,7 @@
   <img src="https://img.shields.io/badge/MVVM-0078D7?style=for-the-badge&logo=android&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Clean Architecture" />
 </div>
+-->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -207,7 +209,7 @@
 <br/>
 
 <!-- ## 🔗 Connect With Me -->
-
+<!--
 <div align="center" style="display:none">
   <a href="https://linkedin.com/in/Tuhinx">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -222,6 +224,7 @@
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
   </a>
 </div>
+-->
 
 <br/>
 
