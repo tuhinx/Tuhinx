@@ -40,7 +40,7 @@
   </p>
 
   <div align="left">
-      <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
     <table border="0">
       <tr>
         <td width="40" align="center">
