@@ -34,7 +34,6 @@
 </div>
 
 <div>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
   <p align="left" style="margin-right: 20px;">
     I'm <b>Tuhinx</b>, a dedicated Android developer with a passion for creating elegant, user-friendly mobile applications and libraries. My focus is on building robust, scalable solutions with beautiful UI designs that provide exceptional user experiences.
