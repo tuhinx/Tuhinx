@@ -162,21 +162,21 @@
 
 <p align="center">
   <a href="https://github.com/Tuhinx">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tuhinx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tuhinx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tuhinx&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=FFE500&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhinx&layout=compact&hide_border=true&title_color=ff64da&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tuhinx&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=FFE500&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinx&layout=compact&hide_border=true&title_color=ff64da&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuhinx&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinx&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuhinx&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhinx&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -188,10 +188,10 @@
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Tuhinx/PicFly">
+  <a href="https://github.com/tuhinx/PicFly">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuhinx&repo=PicFly&theme=tokyonight&hide_border=true" alt="PicFly" />
   </a>
-  <a href="https://github.com/Tuhinx/pdf-viewer-android">
+  <a href="https://github.com/tuhinx/pdf-viewer-android">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuhinx&repo=pdf-viewer-android&theme=tokyonight&hide_border=true" alt="PDF Viewer Android" />
   </a>
 </div>
@@ -229,7 +229,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuhinx&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tuhinx&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 <div align="center">
